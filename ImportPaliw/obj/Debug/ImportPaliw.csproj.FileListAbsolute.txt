@@ -1,0 +1,11 @@
+C:\Users\magdaw\Documents\Petrole\ImportPaliw\ImportPaliw\bin\Debug\ImportPaliw.exe.config
+C:\Users\magdaw\Documents\Petrole\ImportPaliw\ImportPaliw\bin\Debug\ImportPaliw.exe
+C:\Users\magdaw\Documents\Petrole\ImportPaliw\ImportPaliw\bin\Debug\ImportPaliw.pdb
+C:\Users\magdaw\Documents\Petrole\ImportPaliw\ImportPaliw\bin\Debug\Newtonsoft.Json.dll
+C:\Users\magdaw\Documents\Petrole\ImportPaliw\ImportPaliw\bin\Debug\Newtonsoft.Json.xml
+C:\Users\magdaw\Documents\Petrole\ImportPaliw\ImportPaliw\obj\Debug\ImportPaliw.csproj.AssemblyReference.cache
+C:\Users\magdaw\Documents\Petrole\ImportPaliw\ImportPaliw\obj\Debug\ImportPaliw.csproj.CoreCompileInputs.cache
+C:\Users\magdaw\Documents\Petrole\ImportPaliw\ImportPaliw\obj\Debug\ImportPaliw.csproj.CopyComplete
+C:\Users\magdaw\Documents\Petrole\ImportPaliw\ImportPaliw\obj\Debug\ImportPaliw.exe
+C:\Users\magdaw\Documents\Petrole\ImportPaliw\ImportPaliw\obj\Debug\ImportPaliw.pdb
+C:\Users\magdaw\Documents\Petrole\ImportPaliw\ImportPaliw\obj\Debug\ImportPaliw.csproj.ResolveComReference.cache
